@@ -307,15 +307,14 @@ export default function Home() {
                 </Magnetic>
 
                 <Magnetic>
-                  <a
-                    href="/downloads/QR-Dine-Cloud-Setup.exe"
-                    download
-                    id="hero-cta-download"
+                  <Link
+                    href="/downloads"
+                    id="hero-cta-downloads"
                     className="w-full sm:w-auto px-8 py-4 rounded-full bg-blue-600/10 border border-blue-500/30 text-blue-400 font-bold hover:bg-blue-600/20 hover:border-blue-500/50 transition-all text-base flex items-center justify-center gap-2"
                   >
                     <Download size={18} />
-                    Download for Windows
-                  </a>
+                    Download Apps
+                  </Link>
                 </Magnetic>
               </motion.div>
 
