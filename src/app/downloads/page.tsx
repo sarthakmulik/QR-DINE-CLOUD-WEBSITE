@@ -86,7 +86,7 @@ export default function DownloadsPage() {
 
               <Magnetic>
                 <a
-                  href="/downloads/QR Dine Cloud Setup 1.0.0.exe"
+                  href="/downloads/QR Dine Cloud Setup 2.0.0.exe"
                   download
                   className="w-full py-4 rounded-xl bg-blue-600/10 border border-blue-500/30 text-blue-400 font-bold hover:bg-blue-600/20 hover:border-blue-500/50 transition-all text-sm flex items-center justify-center gap-2"
                 >
@@ -126,7 +126,7 @@ export default function DownloadsPage() {
 
               <Magnetic>
                 <a
-                  href="/downloads/QR-Dine-Cloud-Waiters-v14.apk"
+                  href="/downloads/QR-Dine-Cloud-Waiters-v15.apk"
                   download
                   className="w-full py-4 rounded-xl bg-emerald-600/10 border border-emerald-500/30 text-emerald-400 font-bold hover:bg-emerald-600/20 hover:border-emerald-500/50 transition-all text-sm flex items-center justify-center gap-2"
                 >
